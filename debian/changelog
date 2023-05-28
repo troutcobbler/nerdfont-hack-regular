@@ -1,0 +1,11 @@
+nerdfont-hack-regular (2.2.1) pecos; urgency=medium
+
+  * Rebuild for pecos. Switched to native format.
+
+ -- Will Elliott <troutcobbler@gmail.com>  Sun, 28 May 2023 01:55:39 -0600
+
+nerdfont-hack-regular (2.2.1-1~riogrande+1) riogrande; urgency=medium
+
+  * Initial release.
+
+ -- Will Elliott <troutcobbler@gmail.com>  Wed, 30 Nov 2022 19:07:03 -0700
